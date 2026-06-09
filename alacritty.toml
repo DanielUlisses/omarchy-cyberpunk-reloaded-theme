@@ -1,6 +1,9 @@
+[window]
+opacity = 0.7
+
 [colors]
 [colors.primary]
-background = '#240B39'
+background = '#000000'
 foreground = '#EBE2FB'
 
 # Normal colors

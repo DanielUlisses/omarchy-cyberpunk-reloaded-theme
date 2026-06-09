@@ -84,7 +84,7 @@
 
 1. Open Omarchy menu (`Super + Space`)
 2. Go to **Install > Theme**
-3. Enter the GitHub URL: `https://github.com/deathko/omarchy-cyberpunk-dreams-theme`
+3. Enter the GitHub URL: `https://github.com/danielulisses/omarchy-cyberpunk-dreams-theme`
 4. The theme will be automatically installed and available in the theme selector
 
 ### 🔧 Manual Installation
@@ -93,7 +93,7 @@
 
 ```bash
 # Clone the theme repository
-git clone https://github.com/deathko/omarchy-cyberpunk-dreams-theme.git
+git clone https://github.com/danielulisses/omarchy-cyberpunk-dreams-theme.git
 
 # Create symlink to activate theme
 ln -sf ~/.config/omarchy/themes/cyberpunk-dreams ~/.config/omarchy/current/theme
@@ -166,7 +166,7 @@ This theme is licensed under the **MIT License**. See the [LICENSE](LICENSE) fil
 
 | Role | Contributor | Description |
 |------|-------------|-------------|
-| 👨‍💻 **Author** | deathko | Theme creator and maintainer |
+| 👨‍💻 **Author** | danielulisses | Theme creator and maintainer |
 | 🎨 **Inspiration** | Cyberpunk & Anime | Art styles and aesthetics |
 | 🖼️ **Wallpaper** | [Sasha Yakovleva](https://www.youtube.com/watch?v=BnnbP7pCIvQ) | "Let You Down" - Cyberpunk: Edgerunners |
 | 🌟 **Community** | Omarchy Users | Feedback, suggestions, and support |

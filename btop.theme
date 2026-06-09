@@ -3,7 +3,7 @@
 # Inspired by cyberpunk and anime aesthetics
 
 # Main bg
-theme[main_bg]="#240B39"
+theme[main_bg]="#000000"
 
 # Main text color
 theme[main_fg]="#EBE2FB"
