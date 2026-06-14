@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Cyberpunk Reloaded",
+  "version": "1.0",
+  "description": "Dark cyberpunk theme with neon yellow and cyan accents, matching the omarchy cyberpunk-reloaded palette.",
+  "theme": {
+    "colors": {
+      "frame":                    [0,   6,  14],
+      "frame_inactive":           [7,  21,  32],
+      "frame_incognito":          [0,   6,  14],
+      "frame_incognito_inactive": [7,  21,  32],
+      "toolbar":                  [7,  21,  32],
+      "tab_text":                 [216, 238, 248],
+      "tab_background_text":      [154, 159,  23],
+      "bookmark_text":            [216, 238, 248],
+      "ntp_background":           [0,   6,  14],
+      "ntp_text":                 [216, 238, 248],
+      "ntp_link":                 [254, 232,   1],
+      "ntp_header":               [0,   6,  14],
+      "omnibox_background":       [7,  21,  32],
+      "omnibox_text":             [216, 238, 248],
+      "button_background":        [7,  21,  32]
+    },
+    "tints": {
+      "buttons": [0.547, 0.68, 0.62]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

@@ -7,12 +7,12 @@
 @define-color workspace-empty #071520;
 
 /* Module colors */
-@define-color clock #fee801;
-@define-color cpu #54c1e6;
+@define-color clock #39c4b6;
+@define-color cpu #39c4b6;
 @define-color battery #39c4b6;
 @define-color network #39c4b6;
-@define-color volume #fee801;
-@define-color pulseaudio #54c1e6;
-@define-color bluetooth #54c1e6;
-@define-color tray #9a9f17;
-@define-color custom-omarchy #fee801;
+@define-color volume #39c4b6;
+@define-color pulseaudio #39c4b6;
+@define-color bluetooth #39c4b6;
+@define-color tray #39c4b6;
+@define-color custom-omarchy #39c4b6;
