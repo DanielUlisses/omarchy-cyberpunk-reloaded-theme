@@ -1,68 +1,68 @@
 # Cyberpunk Dreams Theme for Spotify Player
 # By: deathko
-# Inspired by cyberpunk and anime aesthetics with neon purple, magenta, cyan, and pink colors
+# Inspired by Cyberpunk 2077 aesthetics with neon yellow, cyan, and teal
 
 [theme]
 name = "cyberpunk-dreams"
-description = "Custom theme inspired by cyberpunk and anime aesthetics"
+description = "Custom theme inspired by Cyberpunk 2077 aesthetics"
 
 # Main colors
-background = "#240B39"          # Deep purple-black (main background)
-foreground = "#EBE2FB"          # Lavender white (primary text)
-accent = "#B50BBF"              # Magenta neon (primary accent)
-secondary = "#7CC3E0"           # Cyan (secondary accent)
-tertiary = "#F5A6F9"            # Pink light (soft pink)
-highlight = "#EB6BED"           # Pink neon (bright pink accent)
-teal = "#42A8A0"                # Teal (green-blue accent)
+background = "#00060e"          # Deep black (main background)
+foreground = "#d8eef8"          # Light cyan-white (primary text)
+accent = "#fee801"              # Neon yellow (primary accent)
+secondary = "#54c1e6"           # Cyan (secondary accent)
+tertiary = "#9a9f17"            # Olive (soft accent)
+highlight = "#fee801"           # Neon yellow (bright accent)
+teal = "#39c4b6"                # Teal (green-blue accent)
 
 # Text colors with high contrast
-text_primary = "#EBE2FB"        # High contrast white
-text_secondary = "#F5A6F9"      # High contrast pink for metadata
-text_muted = "#7CC3E0"          # High contrast cyan for less important info
-text_accent = "#B50BBF"         # High contrast magenta for highlights
+text_primary = "#d8eef8"        # Light cyan-white
+text_secondary = "#9a9f17"      # Olive for metadata
+text_muted = "#54c1e6"          # Cyan for less important info
+text_accent = "#fee801"         # Neon yellow for highlights
 
 # Status colors
-status_playing = "#42A8A0"      # Teal for playing status
-status_paused = "#F5A6F9"       # Pink for paused status
-status_stopped = "#7CC3E0"      # Cyan for stopped status
+status_playing = "#39c4b6"      # Teal for playing status
+status_paused = "#9a9f17"       # Olive for paused status
+status_stopped = "#54c1e6"      # Cyan for stopped status
 
 # Progress bar colors
-progress_filled = "#7CC3E0"     # Cyan for filled progress
-progress_empty = "#352B82"      # Medium purple for empty progress
-progress_cursor = "#B50BBF"     # Magenta for progress cursor
+progress_filled = "#54c1e6"     # Cyan for filled progress
+progress_empty = "#071520"      # Dark for empty progress
+progress_cursor = "#fee801"     # Neon yellow for progress cursor
 
 # Selection colors
-selection_background = "#B50BBF" # Magenta background for selection
-selection_foreground = "#240B39" # Dark text on selection
-hover_background = "#352B82"    # Medium purple for hover
-hover_foreground = "#EBE2FB"    # White text on hover
+selection_background = "#fee801" # Neon yellow background for selection
+selection_foreground = "#00060e" # Dark text on selection
+hover_background = "#071520"    # Dark for hover
+hover_foreground = "#d8eef8"    # Light text on hover
 
 # Border colors
-border_active = "#EB6BED"       # Pink neon for active borders
-border_inactive = "#2C17CA"     # Blue-purple for inactive borders
-border_focus = "#B50BBF"        # Magenta for focus borders
+border_active = "#fee801"       # Neon yellow for active borders
+border_inactive = "#9a9f17"     # Olive for inactive borders
+border_focus = "#54c1e6"        # Cyan for focus borders
 
-# Metadata colors (high contrast for better readability)
-metadata_repeat = "#F5A6F9"     # High contrast pink
-metadata_shuffle = "#F5A6F9"    # High contrast pink
-metadata_volume = "#F5A6F9"     # High contrast pink
-metadata_device = "#F5A6F9"     # High contrast pink
-metadata_genre = "#42A8A0"      # High contrast teal
+# Metadata colors
+metadata_repeat = "#9a9f17"     # Olive
+metadata_shuffle = "#9a9f17"    # Olive
+metadata_volume = "#9a9f17"     # Olive
+metadata_device = "#9a9f17"     # Olive
+metadata_genre = "#39c4b6"      # Teal
 
 # Table colors
-table_header = "#7CC3E0"        # Cyan for table headers
-table_row_even = "#240B39"      # Dark background for even rows
-table_row_odd = "#352B82"       # Medium purple for odd rows
-table_selected = "#B50BBF"      # Magenta for selected row
+table_header = "#54c1e6"        # Cyan for table headers
+table_row_even = "#00060e"      # Dark background for even rows
+table_row_odd = "#071520"       # Slightly lighter for odd rows
+table_selected = "#fee801"      # Neon yellow for selected row
 
 # Popup colors
-popup_background = "#240B39"    # Dark background
-popup_border = "#B50BBF"        # Magenta border
-popup_title = "#EBE2FB"         # White title
-popup_text = "#F5A6F9"          # Pink text
+popup_background = "#00060e"    # Dark background
+popup_border = "#fee801"        # Neon yellow border
+popup_title = "#d8eef8"         # Light title
+popup_text = "#9a9f17"          # Olive text
 
 # Error and warning colors
-error = "#B50BBF"               # Magenta for errors
-warning = "#F5A6F9"             # Pink for warnings
-success = "#42A8A0"             # Teal for success
-info = "#7CC3E0"                # Cyan for info
+error = "#fee801"               # Neon yellow for errors
+warning = "#9a9f17"             # Olive for warnings
+success = "#39c4b6"             # Teal for success
+info = "#54c1e6"                # Cyan for info

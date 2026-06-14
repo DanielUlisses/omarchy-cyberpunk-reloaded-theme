@@ -11,20 +11,20 @@ return {
 			style = "night",
 			transparent = true,
 			on_colors = function(colors)
-				colors.bg            = "#000000"
-				colors.bg_dark       = "#000000"
-				colors.bg_float      = "#000000"
-				colors.bg_popup      = "#000000"
-				colors.bg_sidebar    = "#000000"
-				colors.bg_statusline = "#000000"
-				colors.purple        = "#B50BBF"
-				colors.magenta       = "#B50BBF"
-				colors.magenta2      = "#EB6BED"
-				colors.cyan          = "#7CC3E0"
-				colors.teal          = "#42A8A0"
-				colors.pink          = "#F5A6F9"
-				colors.fg            = "#EBE2FB"
-				colors.comment       = "#7CC3E0"
+				colors.bg            = "#00060e"
+				colors.bg_dark       = "#00060e"
+				colors.bg_float      = "#00060e"
+				colors.bg_popup      = "#00060e"
+				colors.bg_sidebar    = "#00060e"
+				colors.bg_statusline = "#00060e"
+				colors.purple        = "#fee801"
+				colors.magenta       = "#fee801"
+				colors.magenta2      = "#9a9f17"
+				colors.cyan          = "#54c1e6"
+				colors.teal          = "#39c4b6"
+				colors.pink          = "#9a9f17"
+				colors.fg            = "#d8eef8"
+				colors.comment       = "#54c1e6"
 			end,
 		},
 	},

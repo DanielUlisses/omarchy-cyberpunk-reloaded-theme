@@ -7,7 +7,7 @@
 ![Omarchy](https://img.shields.io/badge/omarchy-theme-purple.svg)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg)
 
-*A custom theme for Omarchy inspired by cyberpunk and anime aesthetics with neon purple, magenta, cyan, and pink colors.*
+*A custom theme for Omarchy inspired by Cyberpunk 2077 aesthetics with neon yellow, cyan, teal, and olive colors.*
 
 [🚀 Installation](#-installation) • [🎨 Color Palette](#-color-palette) • [📸 Preview](#-preview) • [🔧 Configuration](#-configuration)
 
@@ -34,20 +34,18 @@
 
 | Color | Preview | Hex Code | Usage |
 |-------|---------|----------|-------|
-| **Deep Purple** | <img src="https://img.shields.io/badge/Deep%20Purple-240B39-240B39?style=for-the-badge&labelColor=240B39&color=FFFFFF" alt="#240B39" /> | `#240B39` | Main background |
-| **Magenta Neon** | <img src="https://img.shields.io/badge/Magenta%20Neon-B50BBF-B50BBF?style=for-the-badge&labelColor=B50BBF&color=FFFFFF" alt="#B50BBF" /> | `#B50BBF` | Primary accent, selections |
-| **Cyan** | <img src="https://img.shields.io/badge/Cyan-7CC3E0-7CC3E0?style=for-the-badge&labelColor=7CC3E0&color=000000" alt="#7CC3E0" /> | `#7CC3E0` | Secondary accent, progress bars |
-| **Pink Light** | <img src="https://img.shields.io/badge/Pink%20Light-F5A6F9-F5A6F9?style=for-the-badge&labelColor=F5A6F9&color=000000" alt="#F5A6F9" /> | `#F5A6F9` | Soft accents, metadata |
-| **Pink Neon** | <img src="https://img.shields.io/badge/Pink%20Neon-EB6BED-EB6BED?style=for-the-badge&labelColor=EB6BED&color=000000" alt="#EB6BED" /> | `#EB6BED` | Bright accents, highlights |
-| **Teal** | <img src="https://img.shields.io/badge/Teal-42A8A0-42A8A0?style=for-the-badge&labelColor=42A8A0&color=FFFFFF" alt="#42A8A0" /> | `#42A8A0` | Status indicators, genres |
+| **Night Black** | <img src="https://img.shields.io/badge/Night%20Black-00060e-00060e?style=for-the-badge&labelColor=00060e&color=FFFFFF" alt="#00060e" /> | `#00060e` | Main background |
+| **Neon Yellow** | <img src="https://img.shields.io/badge/Neon%20Yellow-fee801-fee801?style=for-the-badge&labelColor=fee801&color=000000" alt="#fee801" /> | `#fee801` | Primary accent, selections, cursor |
+| **Cyan** | <img src="https://img.shields.io/badge/Cyan-54c1e6-54c1e6?style=for-the-badge&labelColor=54c1e6&color=000000" alt="#54c1e6" /> | `#54c1e6` | Secondary accent, progress bars |
+| **Teal** | <img src="https://img.shields.io/badge/Teal-39c4b6-39c4b6?style=for-the-badge&labelColor=39c4b6&color=000000" alt="#39c4b6" /> | `#39c4b6` | Status indicators, graph gradients |
+| **Olive** | <img src="https://img.shields.io/badge/Olive-9a9f17-9a9f17?style=for-the-badge&labelColor=9a9f17&color=FFFFFF" alt="#9a9f17" /> | `#9a9f17` | Inactive borders, muted accents |
 
 ### 🎨 Secondary Colors
 
 | Color | Preview | Hex Code | Usage |
 |-------|---------|----------|-------|
-| **Medium Purple** | <img src="https://img.shields.io/badge/Medium%20Purple-352B82-352B82?style=for-the-badge&labelColor=352B82&color=FFFFFF" alt="#352B82" /> | `#352B82` | Secondary background |
-| **Blue Purple** | <img src="https://img.shields.io/badge/Blue%20Purple-2C17CA-2C17CA?style=for-the-badge&labelColor=2C17CA&color=FFFFFF" alt="#2C17CA" /> | `#2C17CA` | Borders, inactive elements |
-| **Lavender White** | <img src="https://img.shields.io/badge/Lavender%20White-EBE2FB-EBE2FB?style=for-the-badge&labelColor=EBE2FB&color=000000" alt="#EBE2FB" /> | `#EBE2FB` | Primary text color |
+| **Selection Dark** | <img src="https://img.shields.io/badge/Selection%20Dark-071520-071520?style=for-the-badge&labelColor=071520&color=FFFFFF" alt="#071520" /> | `#071520` | Selection/hover backgrounds |
+| **Light Cyan-White** | <img src="https://img.shields.io/badge/Light%20Cyan--White-d8eef8-d8eef8?style=for-the-badge&labelColor=d8eef8&color=000000" alt="#d8eef8" /> | `#d8eef8` | Primary text color |
 
 </div>
 
@@ -59,18 +57,18 @@
 
 | Application | Status | Description |
 |-------------|--------|-------------|
-| 🐱 **Kitty Terminal** | ✅ | Neon purple, magenta, cyan accents with dark purple background |
-| ⚡ **Alacritty Terminal** | ✅ | Matching color scheme for consistency |
-| 📊 **Waybar** | ✅ | Dark purple background with magenta/pink accents |
-| 🖼️ **Workspaces** | ✅ | Active in bright magenta, visible in pink |
-| 🔔 **Mako Notifications** | ✅ | Purple background with magenta borders |
-| 🪟 **Hyprland** | ✅ | Gradient active borders (magenta to cyan) |
-| 🔒 **Hyprlock** | ✅ | Magenta-themed lock screen |
-| 📈 **Btop** | ✅ | Magenta/cyan/pink gradient graphs |
-| 🚀 **Walker** | ✅ | Magenta-selected launcher |
-| 🎛️ **SwayOSD** | ✅ | Cyberpunk-themed on-screen display |
-| 🎵 **Spotify Player** | ✅ | High contrast terminal player theme |
-| 📝 **Neovim** | ✅ | Custom cyberpunk color scheme |
+| 🐱 **Kitty Terminal** | ✅ | Neon yellow cursor, cyan accents on deep black |
+| ⚡ **Alacritty Terminal** | ✅ | Matching CP2077 color scheme |
+| 📊 **Waybar** | ✅ | Deep black background with neon yellow/cyan accents |
+| 🖼️ **Workspaces** | ✅ | Active in neon yellow, empty in dark |
+| 🔔 **Mako Notifications** | ✅ | Deep black with neon yellow borders |
+| 🪟 **Hyprland** | ✅ | Gradient active borders (yellow to cyan) |
+| 🔒 **Hyprlock** | ✅ | Neon yellow-themed lock screen |
+| 📈 **Btop** | ✅ | Yellow/teal/cyan gradient graphs |
+| 🚀 **Walker** | ✅ | Neon yellow selected launcher |
+| 🎛️ **SwayOSD** | ✅ | Cyberpunk 2077-themed on-screen display |
+| 🎵 **Spotify Player** | ✅ | High contrast neon yellow terminal player theme |
+| 📝 **Neovim** | ✅ | Custom CP2077 color scheme via tokyonight |
 
 </div>
 

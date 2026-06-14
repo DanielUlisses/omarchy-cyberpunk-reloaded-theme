@@ -1,18 +1,18 @@
-@define-color foreground #EBE2FB;
-@define-color background rgba(0, 0, 0, 0.50);
+@define-color foreground #d8eef8;
+@define-color background rgba(0, 6, 14, 0.50);
 
 /* Workspace colors */
-@define-color workspace-active #B50BBF;
-@define-color workspace-visible #F5A6F9;
-@define-color workspace-empty #352B82;
+@define-color workspace-active #fee801;
+@define-color workspace-visible #9a9f17;
+@define-color workspace-empty #071520;
 
 /* Module colors */
-@define-color clock #F5A6F9;
-@define-color cpu #7CC3E0;
-@define-color battery #7CC3E0;
-@define-color network #42A8A0;
-@define-color volume #EB6BED;
-@define-color pulseaudio #7CC3E0;
-@define-color bluetooth #7CC3E0;
-@define-color tray #F5A6F9;
-@define-color custom-omarchy #B50BBF;
+@define-color clock #fee801;
+@define-color cpu #54c1e6;
+@define-color battery #39c4b6;
+@define-color network #39c4b6;
+@define-color volume #fee801;
+@define-color pulseaudio #54c1e6;
+@define-color bluetooth #54c1e6;
+@define-color tray #9a9f17;
+@define-color custom-omarchy #fee801;
