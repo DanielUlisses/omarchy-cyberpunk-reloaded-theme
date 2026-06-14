@@ -1,13 +1,16 @@
 <div align="center">
 
-# 🌃✨ Cyberpunk Dreams Theme ✨🌃
+# 🌃✨ Cyberpunk Reloaded Theme ✨🌃
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg)
 ![Omarchy](https://img.shields.io/badge/omarchy-theme-purple.svg)
 ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg)
 
-*A custom theme for Omarchy inspired by Cyberpunk 2077 aesthetics with neon yellow, cyan, teal, and olive colors.*
+*A custom theme for Omarchy inspired by Cyberpunk Reloaded aesthetics with neon yellow, cyan, teal, and olive colors.*
+
+This is a fork from Cyberpunk Reloaded Theme 
+https://github.com/irythill/omarchy-cyberpunk-reloaded-theme
 
 [🚀 Installation](#-installation) • [🎨 Color Palette](#-color-palette) • [📸 Preview](#-preview) • [🔧 Configuration](#-configuration)
 
@@ -66,7 +69,7 @@
 | 🔒 **Hyprlock** | ✅ | Neon yellow-themed lock screen |
 | 📈 **Btop** | ✅ | Yellow/teal/cyan gradient graphs |
 | 🚀 **Walker** | ✅ | Neon yellow selected launcher |
-| 🎛️ **SwayOSD** | ✅ | Cyberpunk 2077-themed on-screen display |
+| 🎛️ **SwayOSD** | ✅ | Cyberpunk Reloaded-themed on-screen display |
 | 🎵 **Spotify Player** | ✅ | High contrast neon yellow terminal player theme |
 | 📝 **Neovim** | ✅ | Custom CP2077 color scheme via tokyonight |
 
@@ -82,7 +85,7 @@
 
 1. Open Omarchy menu (`Super + Space`)
 2. Go to **Install > Theme**
-3. Enter the GitHub URL: `https://github.com/danielulisses/omarchy-cyberpunk-dreams-theme`
+3. Enter the GitHub URL: `https://github.com/danielulisses/omarchy-cyberpunk-reloaded-theme`
 4. The theme will be automatically installed and available in the theme selector
 
 ### 🔧 Manual Installation
@@ -91,10 +94,10 @@
 
 ```bash
 # Clone the theme repository
-git clone https://github.com/danielulisses/omarchy-cyberpunk-dreams-theme.git
+git clone https://github.com/danielulisses/omarchy-cyberpunk-reloaded-theme.git
 
 # Create symlink to activate theme
-ln -sf ~/.config/omarchy/themes/cyberpunk-dreams ~/.config/omarchy/current/theme
+ln -sf ~/.config/omarchy/themes/cyberpunk-reloaded ~/.config/omarchy/current/theme
 
 # Restart your session
 pkill Hyprland

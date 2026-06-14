@@ -1,0 +1,21 @@
+# Cyberpunk Reloaded - Slack Theme
+# By: deathko
+#
+# To apply in Slack:
+# 1. Open Slack Preferences → Themes
+# 2. Scroll down to "Create a custom theme"
+# 3. Paste the color string below into the custom theme input
+# 4. Click Save
+
+# Color string (paste this into Slack):
+#00060e,#071520,#fee801,#00060e,#071520,#d8eef8,#39c4b6,#fee801
+
+# Color mapping:
+# Column Background:        #00060e  (Night Black - main background)
+# Menu BG Hover:            #071520  (Selection Dark - hover state)
+# Active Item:              #fee801  (Neon Yellow - active/selected item bg)
+# Active Item Text:         #00060e  (Night Black - text on active item)
+# Hover Item:               #071520  (Selection Dark - hover item bg)
+# Text Color:               #d8eef8  (Light Cyan-White - primary text)
+# Active Presence:          #39c4b6  (Teal - online indicator)
+# Mention Badge:            #fee801  (Neon Yellow - notification badge)

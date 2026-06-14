@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the Cyberpunk Dreams theme will be documented in this file.
+All notable changes to the Cyberpunk Reloaded theme will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changelog for version tracking
 
 ### Changed
-- Updated neovim.lua to use Cyberpunk Dreams colors instead of Tokyo Night
+- Updated neovim.lua to use Cyberpunk Reloaded colors instead of Tokyo Night
 - Expanded README.md with detailed installation instructions
 - Improved color consistency across all components
 - Removed Vencord Discord theme section
@@ -32,7 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2024-10-27
 
 ### Added
-- Initial release of Cyberpunk Dreams theme
+- Initial release of Cyberpunk Reloaded theme
 - Support for Kitty, Alacritty, Waybar, Btop, and other terminal applications
 - Cyberpunk-inspired color palette with neon purple, magenta, cyan, and pink
 - Basic documentation and installation instructions

@@ -1,10 +1,10 @@
-# Cyberpunk Dreams Theme for Spotify Player
+# Cyberpunk Reloaded Theme for Spotify Player
 # By: deathko
-# Inspired by Cyberpunk 2077 aesthetics with neon yellow, cyan, and teal
+# Inspired by Cyberpunk Reloaded aesthetics with neon yellow, cyan, and teal
 
 [theme]
-name = "cyberpunk-dreams"
-description = "Custom theme inspired by Cyberpunk 2077 aesthetics"
+name = "cyberpunk-reloaded"
+description = "Custom theme inspired by Cyberpunk Reloaded aesthetics"
 
 # Main colors
 background = "#00060e"          # Deep black (main background)

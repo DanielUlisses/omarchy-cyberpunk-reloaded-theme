@@ -1,0 +1,18 @@
+{
+  "name": "cyberpunk-reloaded",
+  "displayName": "Cyberpunk Reloaded",
+  "description": "Cyberpunk Reloaded-inspired theme: neon yellow, cyan, teal on deep black",
+  "version": "0.0.1",
+  "publisher": "deathko",
+  "engines": { "vscode": "^1.60.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberpunk Reloaded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk-reloaded-color-theme.json"
+      }
+    ]
+  }
+}
